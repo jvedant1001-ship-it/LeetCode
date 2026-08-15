@@ -1,8 +1,12 @@
-# merge two sorted lists
+# Merge Two Sorted Lists
 
 - **Problem:** 21
-- **Language:** python
+- **Difficulty:** Easy
+- **Language:** Python
+- **Solved:** 2026-08-14
+- **Link:** https://leetcode.com/problems/merge-two-sorted-lists/
 
-## LeetCode
+## Complexity
 
-https://leetcode.com/problems/merge-two-sorted-lists/
+- **Time:** Not specified
+- **Space:** Not specified
