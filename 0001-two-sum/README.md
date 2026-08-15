@@ -1,8 +1,12 @@
-# two sum
+# Two Sum
 
 - **Problem:** 1
-- **Language:** python
+- **Difficulty:** Easy
+- **Language:** Python
+- **Solved:** 2026-08-14
+- **Link:** https://leetcode.com/problems/two-sum/submissions/2107183156/
 
-## LeetCode
+## Complexity
 
-https://leetcode.com/problems/two-sum/
+- **Time:** Not specified
+- **Space:** Not specified
