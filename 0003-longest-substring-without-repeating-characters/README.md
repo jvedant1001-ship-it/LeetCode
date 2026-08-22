@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-08-22
-- **Link:** https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- **Link:** https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2116122271/
 
 ## Complexity
 
