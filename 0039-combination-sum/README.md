@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-08-24
-- **Link:** https://leetcode.com/problems/combination-sum/description/
+- **Link:** https://leetcode.com/problems/combination-sum/
 
 ## Complexity
 
