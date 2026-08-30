@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-08-30
-- **Link:** https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/
+- **Link:** https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 
 ## Complexity
 
