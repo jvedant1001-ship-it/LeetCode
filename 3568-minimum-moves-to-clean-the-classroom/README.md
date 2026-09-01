@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-09-01
-- **Link:** https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+- **Link:** https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/submissions/2127364129/
 
 ## Complexity
 
