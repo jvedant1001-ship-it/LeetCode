@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-09-02
-- **Link:** https://leetcode.com/problems/zigzag-conversion/description/
+- **Link:** https://leetcode.com/problems/zigzag-conversion/
 
 ## Complexity
 
