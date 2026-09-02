@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-09-02
-- **Link:** https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+- **Link:** https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ## Complexity
 
