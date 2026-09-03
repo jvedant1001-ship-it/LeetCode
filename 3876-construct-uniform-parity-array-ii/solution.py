@@ -1,5 +1,5 @@
 class Solution:
-    def constructUniformParityArray(self, nums1):
+    def uniformArray(self, nums1):
         min_odd = float('inf')
         min_even = float('inf')
 
@@ -9,22 +9,10 @@ class Solution:
             else:
                 min_even = min(min_even, x)
 
-        # Already uniform parity
+        # All numbers have the same parity
         if min_odd == float('inf') or min_even == float('inf'):
             return True
 
-        # Make everything odd:
-        # every even x needs a smaller odd number.
-        can_make_odd = all(
-            x % 2 == 1 or x > min_odd
-            for x in nums1
-        )
-
-        # Make everything even:
-        # every odd x needs a smaller even number.
-        can_make_even = all(
-            x % 2 == 0 or x > min_even
-            for x in nums1
-        )
-
-        return can_make_odd or can_make_even
+        # We can make every even number odd by subtracting
+        # the smallest odd number.
+        return min_odd < min_even
