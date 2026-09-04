@@ -1,15 +1,15 @@
 class Solution:
-    def smallestStableIndex(self, nums, k):
+    def firstStableIndex(self, nums, k):
         n = len(nums)
 
-        # Suffix minimums
+        # suffix_min[i] = minimum value from i to n - 1
         suffix_min = [0] * n
         suffix_min[-1] = nums[-1]
 
         for i in range(n - 2, -1, -1):
             suffix_min[i] = min(nums[i], suffix_min[i + 1])
 
-        # Prefix maximum while checking each index
+        # prefix maximum while scanning
         prefix_max = nums[0]
 
         for i in range(n):

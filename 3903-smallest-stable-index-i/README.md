@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-04
-- **Link:** https://leetcode.com/problems/smallest-stable-index-i/
+- **Link:** https://leetcode.com/problems/smallest-stable-index-i/submissions/2130862609/
 
 ## Complexity
 
