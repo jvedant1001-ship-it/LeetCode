@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-09-05
-- **Link:** https://leetcode.com/problems/smallest-stable-index-ii/description/
+- **Link:** https://leetcode.com/problems/smallest-stable-index-ii/
 
 ## Complexity
 
