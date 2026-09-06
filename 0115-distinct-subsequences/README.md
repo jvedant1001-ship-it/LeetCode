@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-09-06
-- **Link:** https://leetcode.com/problems/distinct-subsequences/description/
+- **Link:** https://leetcode.com/problems/distinct-subsequences/
 
 ## Complexity
 
