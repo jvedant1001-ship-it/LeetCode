@@ -1,6 +1,16 @@
-class Solution(object):
+class Solution:
     def distinctSubseqII(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+        MOD = 10**9 + 7
+
+        dp = 1  # empty subsequence
+        last = [0] * 26
+
+        for ch in s:
+            i = ord(ch) - ord('a')
+
+            new_dp = (2 * dp - last[i]) % MOD
+
+            last[i] = dp
+            dp = new_dp
+
+        return (dp - 1) % MOD
