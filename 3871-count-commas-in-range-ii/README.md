@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-09-09
-- **Link:** https://leetcode.com/problems/count-commas-in-range-ii/description/
+- **Link:** https://leetcode.com/problems/count-commas-in-range-ii/
 
 ## Complexity
 
