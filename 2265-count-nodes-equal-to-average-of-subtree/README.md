@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-09-10
-- **Link:** https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+- **Link:** https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/2137489137/
 
 ## Complexity
 
