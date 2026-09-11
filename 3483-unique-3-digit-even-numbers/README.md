@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-11
-- **Link:** https://leetcode.com/problems/unique-3-digit-even-numbers/
+- **Link:** https://leetcode.com/problems/unique-3-digit-even-numbers/submissions/2138742933/
 
 ## Complexity
 

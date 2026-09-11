@@ -1,5 +1,5 @@
 class Solution:
-    def totalNumbers(self, digits: List[int]) -> int:
+    def totalNumbers(self, digits):
         from collections import Counter
 
         count = Counter(digits)
