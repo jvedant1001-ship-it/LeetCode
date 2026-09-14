@@ -1,7 +1,6 @@
-class Solution(object):
+class Solution:
     def isRectangleOverlap(self, rec1, rec2):
-        """
-        :type rec1: List[int]
-        :type rec2: List[int]
-        :rtype: bool
-        """
+        x1, y1, x2, y2 = rec1
+        a1, b1, a2, b2 = rec2
+
+        return x1 < a2 and a1 < x2 and y1 < b2 and b1 < y2
