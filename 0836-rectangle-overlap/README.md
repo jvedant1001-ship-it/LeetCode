@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-14
-- **Link:** https://leetcode.com/problems/rectangle-overlap/description/
+- **Link:** https://leetcode.com/problems/rectangle-overlap/
 
 ## Complexity
 
