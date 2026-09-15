@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-09-15
-- **Link:** https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
+- **Link:** https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/submissions/2142603607/
 
 ## Complexity
 

@@ -1,5 +1,5 @@
 class Solution:
-    def maxPalindromes(self, s: str, k: int) -> int:
+    def maxPalindromes(self, s, k):
         n = len(s)
 
         # pal[l][r] = whether s[l:r+1] is a palindrome
