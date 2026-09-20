@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-20
-- **Link:** https://leetcode.com/problems/reverse-degree-of-a-string/
+- **Link:** https://leetcode.com/problems/reverse-degree-of-a-string/submissions/2147604952/
 
 ## Complexity
 
