@@ -5,9 +5,20 @@
 #          otherwise return 0
 # def guess(num):
 
-class Solution(object):
-    def guessNumber(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def guessNumber(self, n: int) -> int:
+        left, right = 1, n
+
+        while left <= right:
+            mid = left + (right - left) // 2
+
+            result = guess(mid)
+
+            if result == 0:
+                return mid
+            elif result == -1:
+                # mid is too high
+                right = mid - 1
+            else:
+                # mid is too low
+                left = mid + 1
