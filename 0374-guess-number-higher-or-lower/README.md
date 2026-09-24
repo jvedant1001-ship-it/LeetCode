@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-24
-- **Link:** https://leetcode.com/problems/guess-number-higher-or-lower/
+- **Link:** https://leetcode.com/problems/guess-number-higher-or-lower/submissions/2152155335/
 
 ## Complexity
 

@@ -6,7 +6,7 @@
 # def guess(num):
 
 class Solution:
-    def guessNumber(self, n: int) -> int:
+    def guessNumber(self, n):
         left, right = 1, n
 
         while left <= right:
