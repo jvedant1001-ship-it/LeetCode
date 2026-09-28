@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-28
-- **Link:** https://leetcode.com/problems/display-the-first-three-rows/
+- **Link:** https://leetcode.com/problems/display-the-first-three-rows/submissions/2155891447/
 
 ## Complexity
 
