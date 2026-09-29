@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-29
-- **Link:** https://leetcode.com/problems/modify-columns/
+- **Link:** https://leetcode.com/problems/modify-columns/submissions/2157347494/
 
 ## Complexity
 
