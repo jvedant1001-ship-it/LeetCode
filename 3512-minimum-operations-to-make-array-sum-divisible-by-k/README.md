@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-09-29
-- **Link:** https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/
+- **Link:** https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
 
 ## Complexity
 

@@ -5,3 +5,4 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        return sum(nums) % k
