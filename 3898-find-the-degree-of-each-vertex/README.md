@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-03
-- **Link:** https://leetcode.com/problems/find-the-degree-of-each-vertex/
+- **Link:** https://leetcode.com/problems/find-the-degree-of-each-vertex/submissions/2160957069/
 
 ## Complexity
 
