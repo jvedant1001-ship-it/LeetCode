@@ -1,5 +1,6 @@
 class Solution(object):
     def maxDistinct(self, s):
+        return(len(set(s)))
         """
         :type s: str
         :rtype: int
