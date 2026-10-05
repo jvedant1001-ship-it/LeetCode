@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** JavaScript
 - **Solved:** 2026-10-05
-- **Link:** https://leetcode.com/problems/add-two-promises/description/
+- **Link:** https://leetcode.com/problems/add-two-promises/
 
 ## Complexity
 
