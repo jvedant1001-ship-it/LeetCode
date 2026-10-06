@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-10-06
-- **Link:** https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/
+- **Link:** https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
 
 ## Complexity
 
