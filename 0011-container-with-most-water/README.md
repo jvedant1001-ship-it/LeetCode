@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-10-09
-- **Link:** https://leetcode.com/problems/container-with-most-water/description/
+- **Link:** https://leetcode.com/problems/container-with-most-water/
 
 ## Complexity
 
