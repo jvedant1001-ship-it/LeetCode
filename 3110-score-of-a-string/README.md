@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-11
-- **Link:** https://leetcode.com/problems/score-of-a-string/description/
+- **Link:** https://leetcode.com/problems/score-of-a-string/
 
 ## Complexity
 
