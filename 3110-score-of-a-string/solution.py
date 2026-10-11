@@ -1,5 +1,5 @@
 class Solution:
-    def scoreOfString(self, s: str) -> int:
+    def scoreOfString(self, s):
         score = 0
 
         for i in range(len(s) - 1):
