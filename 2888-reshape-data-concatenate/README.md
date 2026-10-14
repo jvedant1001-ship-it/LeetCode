@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-14
-- **Link:** https://leetcode.com/problems/reshape-data-concatenate/
+- **Link:** https://leetcode.com/problems/reshape-data-concatenate/submissions/2172317540/
 
 ## Complexity
 
