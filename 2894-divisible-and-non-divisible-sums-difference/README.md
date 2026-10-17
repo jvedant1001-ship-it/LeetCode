@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-17
-- **Link:** https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+- **Link:** https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/submissions/2174774588/
 
 ## Complexity
 
