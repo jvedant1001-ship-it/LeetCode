@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-18
-- **Link:** https://leetcode.com/problems/mirror-distance-of-an-integer/
+- **Link:** https://leetcode.com/problems/mirror-distance-of-an-integer/submissions/2175621876/
 
 ## Complexity
 
