@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-19
-- **Link:** https://leetcode.com/problems/restore-finishing-order/
+- **Link:** https://leetcode.com/problems/restore-finishing-order/submissions/2176378171/
 
 ## Complexity
 
