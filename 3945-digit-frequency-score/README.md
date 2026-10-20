@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-20
-- **Link:** https://leetcode.com/problems/digit-frequency-score/description/
+- **Link:** https://leetcode.com/problems/digit-frequency-score/
 
 ## Complexity
 
