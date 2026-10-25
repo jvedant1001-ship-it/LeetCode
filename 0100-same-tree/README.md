@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-25
-- **Link:** https://leetcode.com/problems/same-tree/description/
+- **Link:** https://leetcode.com/problems/same-tree/
 
 ## Complexity
 
