@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-26
-- **Link:** https://leetcode.com/problems/path-sum/description/
+- **Link:** https://leetcode.com/problems/path-sum/
 
 ## Complexity
 
