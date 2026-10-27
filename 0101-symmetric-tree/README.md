@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-27
-- **Link:** https://leetcode.com/problems/symmetric-tree/description/
+- **Link:** https://leetcode.com/problems/symmetric-tree/
 
 ## Complexity
 
