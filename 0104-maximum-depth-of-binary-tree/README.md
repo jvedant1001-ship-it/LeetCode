@@ -3,7 +3,7 @@
 - **Problem:** 104
 - **Difficulty:** Easy
 - **Language:** Python
-- **Solved:** 2026-10-29
+- **Solved:** 2026-10-30
 - **Link:** https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2184868335/
 
 ## Complexity
