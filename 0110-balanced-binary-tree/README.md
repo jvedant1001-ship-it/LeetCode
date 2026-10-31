@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Language:** Python
 - **Solved:** 2026-10-31
-- **Link:** https://leetcode.com/problems/balanced-binary-tree/
+- **Link:** https://leetcode.com/problems/balanced-binary-tree/submissions/2186338434/
 
 ## Complexity
 
