@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-11-02
-- **Link:** https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187757840/
+- **Link:** https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/
 
 ## Complexity
 
