@@ -8,10 +8,13 @@ class Solution:
         vals = sorted(set(nums))
         m = len(vals)
 
-        pos = {v: i + 1 for i, v in enumerate(vals)}
+        pos = {}
+        for i in range(m):
+            pos[vals[i]] = i + 1
 
-        # Fenwick Tree for frequencies and sums
+        # Fenwick Tree
         class BIT:
+
             def __init__(self, n):
                 self.n = n
                 self.bit = [0] * (n + 1)
@@ -21,7 +24,6 @@ class Solution:
                     self.bit[i] += val
                     i += i & -i
 
-            # Sum of first i positions
             def query(self, i):
                 res = 0
                 while i > 0:
@@ -29,7 +31,6 @@ class Solution:
                     i -= i & -i
                 return res
 
-            # Find index of kth smallest element (1-indexed)
             def kth(self, k):
                 idx = 0
                 step = 1 << (self.n.bit_length() - 1)
@@ -48,41 +49,41 @@ class Solution:
         countBIT = BIT(m)
         sumBIT = BIT(m)
 
-        total_sum = 0
+        total_sum = [0]
 
+        # Update window
         def update(v, delta):
-            nonlocal total_sum
 
             p = pos[v]
 
             countBIT.add(p, delta)
             sumBIT.add(p, v * delta)
 
-            total_sum += v * delta
+            total_sum[0] += v * delta
 
         # Build first window
         for i in range(x):
             update(nums[i], 1)
 
+        # Calculate window costs
         costs = []
 
-        # Calculate minimum cost for each window
         for i in range(n - x + 1):
 
             # Find median
             median_pos = countBIT.kth((x + 1) // 2)
             median = vals[median_pos - 1]
 
-            # Elements strictly smaller than median
+            # Left side
             left_count = countBIT.query(median_pos - 1)
             left_sum = sumBIT.query(median_pos - 1)
 
-            # Elements strictly greater than median
+            # Right side
             le_count = countBIT.query(median_pos)
             le_sum = sumBIT.query(median_pos)
 
             right_count = x - le_count
-            right_sum = total_sum - le_sum
+            right_sum = total_sum[0] - le_sum
 
             # Minimum operations
             cost = (
@@ -111,8 +112,9 @@ class Solution:
                 # Skip current element
                 curr[i] = curr[i - 1]
 
-                # Choose a window ending at i-1
+                # Select subarray of size x
                 if i >= x:
+
                     curr[i] = min(
                         curr[i],
                         prev[i - x] + costs[i - x]
