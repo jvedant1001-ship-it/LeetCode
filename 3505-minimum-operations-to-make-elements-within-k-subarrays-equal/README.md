@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-11-04
-- **Link:** https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/submissions/2189414306/
+- **Link:** https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
 
 ## Complexity
 
