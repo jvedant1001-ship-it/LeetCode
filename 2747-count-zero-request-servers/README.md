@@ -4,7 +4,7 @@
 - **Difficulty:** Medium
 - **Language:** Python
 - **Solved:** 2026-11-06
-- **Link:** https://leetcode.com/problems/count-zero-request-servers/
+- **Link:** https://leetcode.com/problems/count-zero-request-servers/submissions/2190700001/
 
 ## Complexity
 
