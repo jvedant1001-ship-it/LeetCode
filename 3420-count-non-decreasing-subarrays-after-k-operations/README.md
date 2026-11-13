@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-11-13
-- **Link:** https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+- **Link:** https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2195263056/
 
 ## Complexity
 
