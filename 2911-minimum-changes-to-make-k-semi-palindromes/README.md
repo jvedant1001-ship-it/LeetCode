@@ -4,7 +4,7 @@
 - **Difficulty:** Hard
 - **Language:** Python
 - **Solved:** 2026-11-17
-- **Link:** https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
+- **Link:** https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/submissions/2197853484/
 
 ## Complexity
 
